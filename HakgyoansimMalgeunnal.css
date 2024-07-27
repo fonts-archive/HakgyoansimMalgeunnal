@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Medium.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -14,5 +15,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal-Bold.ttf') format('truetype');
 }
